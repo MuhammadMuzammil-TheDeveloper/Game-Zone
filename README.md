@@ -6,7 +6,7 @@
 
 ## 🧩 About the Project
 
-**GameZone** is a fully-featured web-based gaming hub developed by **Muhammad Muzammil**, designed to offer users instant access to a curated set of mini-games — no installations, no logins, just pure gameplay.
+**GameZone** is a fully-featured web-based gaming hub developed by **Muhammad Muzammil**, designed to offer users instant access to a curated set of mini-games — no installations,, just pure gameplay.
 
 This platform combines pixel-perfect UI with modern web technologies, offering a seamless, fast, and mobile-friendly gaming experience that mirrors the simplicity of the early web with the power of today’s frontend tools.
 
@@ -15,7 +15,6 @@ This platform combines pixel-perfect UI with modern web technologies, offering a
 ## 🔥 Live Demo
 
 > 🌐 [Your Custom Domain (Coming Soon)](https://yourdomain.com)  
-> 🧪 [Preview Screenshots & GIFs](_Add_Link_Here_)
 
 ---
 
@@ -54,18 +53,3 @@ Each game is modular, interactive, and optimized for browser performance:
 ---
 
 ## 🚀 Getting Started
-
-To run the project locally:
-
-```bash
-# Step 1: Clone the repository
-git clone https://github.com/your-username/gamezone.git
-
-# Step 2: Navigate to the project directory
-cd gamezone
-
-# Step 3: Install dependencies
-npm install
-
-# Step 4: Launch development server
-npm run dev
