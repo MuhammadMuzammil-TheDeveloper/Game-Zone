@@ -1,4 +1,3 @@
-<img width="1280" height="760" alt="image" src="https://github.com/user-attachments/assets/da95f38d-a470-467a-b427-71017d8c6b0a" /># 🎮 GameZone  
 **Developed by [Muhammad Muzammil](https://github.com/MuhammadMuzammil-TheDeveloper)**  
 🌐 **Live Demo:** [https://muhammadmuzammil-thedeveloper.github.io/Game-Zone/](https://muhammadmuzammil-thedeveloper.github.io/Game-Zone/)
 
